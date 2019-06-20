@@ -21,7 +21,7 @@ import numpy as np
 def get_data():
     #specify folder where data was dloaded
     path = os.getcwd()
-    folder = path + '/names'
+    folder = path + '/data'
     #move inside folder which has .txt files
     os.chdir(folder)
     #retrieve names of .txt files only
