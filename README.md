@@ -1,8 +1,8 @@
 # BabyNames--Jupyter--dfPandas
-### (import pandas as pd) pd.analysis of baby names presented in a jupyter notebook. 
+### popularity analysis of baby names presented in a jupyter notebook. 
 
-> baseline detection of time-series baby name trends using clustering methods.
+> baseline detection of time-series baby name trends (increase/decrease in popularity) using agglomerative clustering methods.
 
-> automated pipeline for generating time-series forecasts using ARIMA.
+> automated pipeline for generating time-series forecasts for every baby name using ARIMA.
 
-> pandas as a utility for data munging/wrangling.
+> pandas as a valuable utility for data munging/wrangling.
